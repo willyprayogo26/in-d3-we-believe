@@ -1,0 +1,185 @@
+{
+    "name": "Pokemon",
+    "children": [
+        {
+            "name": "Bulbasaur",
+            "children": [
+                {
+                    "name": "Type: Grass"
+                },
+                {
+                    "name": "Hp: 45"
+                },
+                {
+                    "name": "Attack: 49"
+                },
+                {
+                    "name": "Defense: 49"
+                },
+                {
+                    "name": "Speed: 45"
+                }
+            ]
+        },
+        {
+            "name": "Ivysaur",
+            "children": [
+                {
+                    "name": "Type: Grass"
+                },
+                {
+                    "name": "Hp: 60"
+                },
+                {
+                    "name": "Attack: 62"
+                },
+                {
+                    "name": "Defense: 63"
+                },
+                {
+                    "name": "Speed: 60"
+                }
+            ]
+        },
+        {
+            "name": "Venusaur",
+            "children": [
+                {
+                    "name": "Type: Grass"
+                },
+                {
+                    "name": "Hp: 80"
+                },
+                {
+                    "name": "Attack: 82"
+                },
+                {
+                    "name": "Defense: 83"
+                },
+                {
+                    "name": "Speed: 80"
+                }
+            ]
+        },
+        {
+            "name": "Charmander",
+            "children": [
+                {
+                    "name": "Type: Fire"
+                },
+                {
+                    "name": "Hp: 39"
+                },
+                {
+                    "name": "Attack: 52"
+                },
+                {
+                    "name": "Defense: 43"
+                },
+                {
+                    "name": "Speed: 65"
+                }
+            ]
+        },
+        {
+            "name": "Charmeleon",
+            "children": [
+                {
+                    "name": "Type: Fire"
+                },
+                {
+                    "name": "Hp: 58"
+                },
+                {
+                    "name": "Attack: 64"
+                },
+                {
+                    "name": "Defense: 58"
+                },
+                {
+                    "name": "Speed: 80"
+                }
+            ]
+        },
+        {
+            "name": "Charizard",
+            "children": [
+                {
+                    "name": "Type: Fire"
+                },
+                {
+                    "name": "Hp: 78"
+                },
+                {
+                    "name": "Attack: 84"
+                },
+                {
+                    "name": "Defense: 78"
+                },
+                {
+                    "name": "Speed: 100"
+                }
+            ]
+        },
+        {
+            "name": "Squirtle",
+            "children": [
+                {
+                    "name": "Type: Water"
+                },
+                {
+                    "name": "Hp: 44"
+                },
+                {
+                    "name": "Attack: 48"
+                },
+                {
+                    "name": "Defense: 65"
+                },
+                {
+                    "name": "Speed: 43"
+                }
+            ]
+        },
+        {
+            "name": "Wartortle",
+            "children": [
+                {
+                    "name": "Type: Water"
+                },
+                {
+                    "name": "Hp: 59"
+                },
+                {
+                    "name": "Attack: 63"
+                },
+                {
+                    "name": "Defense: 80"
+                },
+                {
+                    "name": "Speed: 58"
+                }
+            ]
+        },
+        {
+            "name": "Blastoise",
+            "children": [
+                {
+                    "name": "Type: Water"
+                },
+                {
+                    "name": "Hp: 79"
+                },
+                {
+                    "name": "Attack: 83"
+                },
+                {
+                    "name": "Defense: 100"
+                },
+                {
+                    "name": "Speed: 78"
+                }
+            ]
+        }
+    ]
+}
